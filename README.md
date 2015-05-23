@@ -22,10 +22,3 @@ The script runs five different functions
 5. run_analysis()
 ..* This is the main function, and calls the other 4 functions in the necessary order
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-
