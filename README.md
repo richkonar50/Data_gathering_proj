@@ -23,7 +23,8 @@ The script runs five different functions
 ..* This is the main function, and calls the other 4 functions in the necessary order
 
 
-1. First ordered list item
+1. getData()
+..* makes the working directory, data, and unzips the downloaded data into this directory
 2. Another item
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
